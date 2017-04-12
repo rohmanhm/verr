@@ -1,0 +1,28 @@
+{
+  "name": "verr",
+  "description": "Simpleway check version",
+  "version": "0.0.0",
+  "license": "MIT",
+  "author": {
+    "name": "Roman Masyhar",
+    "email": "mhrohman@live.com",
+    "url": "https://github.com/rohmanhm"
+  },
+  "repository": "rohmanhm/verr",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "ava"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "execa": "^0.6.3"
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "eslint": "^3.19.0",
+    "eslint-config-standard": "^10.2.0",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
+  }
+}
