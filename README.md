@@ -13,7 +13,7 @@ yarn global add verr
 ```
 
 ## Usage
-From your terminal run **verr** with the second arguments with bin name.
+From your terminal run **verr**, followed the second arguments with bin name.
 ```bash
 verr binname
 ```
