@@ -1,5 +1,7 @@
 # Verr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rohmanhm/verr.svg)](https://greenkeeper.io/)
+
 > The simple way to check version
 
 ## Install
